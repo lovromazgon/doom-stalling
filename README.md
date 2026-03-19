@@ -27,7 +27,7 @@ If you're already on the site and navigating within it, Doom Stalling won't inte
 
 ### From the Chrome Web Store
 
-[Link coming soon]
+[Doom Stalling on the Chrome Web Store](https://chromewebstore.google.com/detail/doom-stalling/fgladjlppcliagdlhnoedknmjpeajgej)
 
 ### From source
 
