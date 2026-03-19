@@ -26,7 +26,7 @@ Features:
 • Zero data collection — everything stays in your browser
 
 Doom Stalling is open source. Report issues, suggest features, or contribute at:
-https://github.com/lovro/doom-stalling
+https://github.com/lovromazgon/doom-stalling
 
 ## Category
 
@@ -38,11 +38,11 @@ English
 
 ## Homepage URL
 
-https://github.com/lovro/doom-stalling
+https://github.com/lovromazgon/doom-stalling
 
 ## Support URL
 
-https://github.com/lovro/doom-stalling/issues
+https://github.com/lovromazgon/doom-stalling/issues
 
 ## Required assets
 
@@ -54,7 +54,7 @@ https://github.com/lovro/doom-stalling/issues
 
 - Single purpose: "Intercepts navigation to user-configured sites and displays a countdown page to discourage impulsive browsing."
 - Data usage: Select "No" for all data collection checkboxes
-- Privacy policy URL: https://github.com/lovro/doom-stalling/blob/master/PRIVACY.md
+- Privacy policy URL: https://github.com/lovromazgon/doom-stalling/blob/master/PRIVACY.md
 
 ## Developer email
 
