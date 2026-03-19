@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Doom Stalling</title>
+  <link rel="stylesheet" href="stall.css">
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">Hold up.</h1>
+    <p class="site-name">You're about to visit <strong id="site-name"></strong></p>
+    <p class="question" id="question"></p>
+    <div class="countdown-container">
+      <div class="countdown-ring">
+        <svg viewBox="0 0 120 120" aria-hidden="true">
+          <circle class="ring-bg" cx="60" cy="60" r="54" />
+          <circle class="ring-fg" id="ring" cx="60" cy="60" r="54" />
+        </svg>
+        <span class="countdown-number" id="countdown" role="timer" aria-live="polite"></span>
+      </div>
+    </div>
+    <div class="buttons">
+      <button id="btn-back" class="btn btn-back">Nah, I'm good</button>
+      <button id="btn-proceed" class="btn btn-proceed" disabled>Proceed anyway</button>
+    </div>
+  </div>
+  <script src="stall.js"></script>
+</body>
+</html>
